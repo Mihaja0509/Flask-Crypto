@@ -1,3 +1,4 @@
 Flask
 vaderSentiment
 gunicorn
+firebase-admin
